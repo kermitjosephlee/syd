@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/kermitjosephlee/syd/issues"
   },
-  "homepage": "https://github.com/kermitjosephlee/syd#readme"
+  "homepage": "https://github.com/kermitjosephlee/syd#readme",
+  "dependencies": {
+    "whatwg-fetch": "^3.0.0"
+  }
 }
